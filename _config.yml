@@ -63,3 +63,6 @@ exclude:
 
 # Turn off built-in syntax highlighting.
 highlighter: false
+
+# Software Carpentry Installer:
+swc_installer: https://github.com/swcarpentry/windows-installer/releases/download/v0.3/SWCarpentryInstaller.exe
