@@ -67,3 +67,4 @@ highlighter: false
 github:
   url: '/swc-releases/2016.06/workshop-template'
 
+swc_installer: https://github.com/swcarpentry/windows-installer/releases/download/v0.3/SWCarpentryInstaller.exe
